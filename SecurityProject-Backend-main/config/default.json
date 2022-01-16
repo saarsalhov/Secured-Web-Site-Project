@@ -1,0 +1,9 @@
+{
+"isSecured": true,
+"passwordLength": 10,
+"complexPassword": true,
+"passwordHistoryLength": 3,
+"passwordDictonary": true,
+"loginRetries": 2,
+"lockTimeInMinutes": 1
+}
